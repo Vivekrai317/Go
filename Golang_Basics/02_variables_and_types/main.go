@@ -10,5 +10,7 @@ func main(){
 
 	var year int = 2026;
 
-	fmt.Println("Channen: ",channelName, "Year: ", year);
+	fmt.Println("Channel: ",channelName, "Year: ", year);
+
+	var rating float64 = 4.8;
 }
